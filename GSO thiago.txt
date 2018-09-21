@@ -1,0 +1,8 @@
+pwd = mostra pasta de usuario
+git clone (url) = traz o projeto do github
+cd (nome) = acessa a pasta
+cd .. = sai da pasta
+git status +=
+git add . = seleciona pasta
+git commit -m "adfasd" = adiciona commit
+
